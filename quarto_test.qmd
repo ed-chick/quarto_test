@@ -1,0 +1,227 @@
+---
+title: "L4 Data Analysis Apprenticeship"
+author: "Ed Chick"
+format: 
+    revealjs:
+        theme: dark
+        chalkboard: true
+---
+
+## Course Content {.scrollable}
+
+- Python (Cambridge Spark focuses on the use of Python)^[Though it is not actually essenstial to use it in your projects.]
+- Data privacy, ethics and regulations
+- Data visualisations (mainly done in Python)
+- Power BI & Tableau (optional)
+- Databases & SQL^[The SQL part is really just the SQLite Python library]
+- Why data science is good for businesses
+- Maths for data science
+- Time series analysis
+- Descriptive, Predictive and Prescriptive analytics
+    - Inferential analysis
+- Introduction to machine learning
+    - Predictive analysis e.g. forecasting and categorization
+- Text-mining, JSON and APIs
+
+---
+
+## Knowledge, Skills and Behaviours (KSBs)
+
+- Two separate sets: one set has to be demonstrated across your portfolio, one has to be demonstrated during your EPA project
+- **Knowledge**: current legislation, data types, principles of statistics & different types of analytics
+- **Skills**: apply statistical methodologies, convert data into visualisations, assess the impact of user experience
+- **Behaviours**: demonstrate initiative and resilience, work independently and collaboratively
+
+---
+
+![](ksb_explanation.png){fig-align="center"}
+
+---
+
+## The Data Analysis Life Cycle
+
+![](data_analysis_life_cycle.png){fig-align="center" width=60% height=60%}
+
+---
+
+## Timeline & Commitment
+
+- Approximately 16 months from the introductory webinar to the End Point Assessment
+- Typically 3 projects that form a portfolio of work + 1 End Point Assessment project
+- "Off The Job" hours: minimum 6 hours per week.
+- The End Point Assessment
+    - A professional discussion focusing on your portfolio
+    - A presentation on your End Point Assessment project
+    - Questions about your End Point Assessment project
+
+---
+
+## Projects that I undertook
+
+- Automation of data processing for the Non-Bedded Community Modelling Tool
+- Improving visualisations for the S136 report
+- Exploration of forecasting methods applied to cancer waiting times data
+- Using regression to predict improvement in Mental Health PROMs scores
+- Investigating the relationship between health inequalities factors on Adult Social Care waiting times, and those waiting times on Emergency Department attendances
+
+---
+
+## Project outputs{.scrollable}
+
+:::{.panel-tabset}
+
+### Project 1
+
+![Community data processing automation](project1.png){fig-align="center"}
+
+### Project 2
+
+![Improving S136 visualisations](project2.png){fig-align="center"}
+
+### Project 3
+
+![Exploring forecasting methods](project3.png){fig-align="center"}
+
+### Project 4
+
+![Regression output](project4.png){fig-align="center"}
+
+### EPA Project
+
+![Adult Social Care deep-dive. Custom chart created in Python](projectEPA.png){fig-align="center"}
+
+:::
+
+---
+
+## Reflections
+
+- Keep the Data Analysis Life Cycle in mind for all your projects
+- Have the list of KSBs open when you are scoping and writing up your projects
+- Stay focused on the STAR method when writing up your portfolio projects
+    - Situation
+    - Task
+    - Action
+    - Result
+
+# Questions?
+
+# Quarto
+An open-source scientific and technical publishing system
+![](quarto.png){width=320 height=77}
+
+[https://quarto.org/](https://quarto.org/)
+
+# Markdown used for this presentation{.scrollable}
+
+```markdown
+
+---
+title: "L4 Data Analysis Apprenticeship"
+author: "Ed Chick"
+format: 
+    revealjs:
+        theme: dark
+        chalkboard: true
+---
+
+## Course Content {.scrollable}
+
+- Python (Cambridge Spark focuses on the use of Python)^[Though it is not actually essenstial to use it in your projects.]
+- Data privacy, ethics and regulations
+- Data visualisations (mainly done in Python)
+- Power BI & Tableau (optional)
+- Databases & SQL^[The SQL part is really just the SQLite Python library]
+- Why data science is good for businesses
+- Maths for data science
+- Time series analysis
+- Descriptive, Predictive and Prescriptive analytics
+    - Inferential analysis
+- Introduction to machine learning
+    - Predictive analysis e.g. forecasting and categorization
+- Text-mining, JSON and APIs
+
+---
+
+## Knowledge, Skills and Behaviours (KSBs)
+
+- Two separate sets: one set has to be demonstrated across your portfolio, one has to be demonstrated during your EPA project
+- **Knowledge**: current legislation, data types, principles of statistics & different types of analytics
+- **Skills**: apply statistical methodologies, convert data into visualisations, assess the impact of user experience
+- **Behaviours**: demonstrate initiative and resilience, work independently and collaboratively
+
+---
+
+![](ksb_explanation.png){fig-align="center"}
+
+---
+
+## The Data Analysis Life Cycle
+
+![](data_analysis_life_cycle.png){fig-align="center" width=60% height=60%}
+
+---
+
+## Timeline & Commitment
+
+- Approximately 16 months from the introductory webinar to the End Point Assessment
+- Typically 3 projects that form a portfolio of work + 1 End Point Assessment project
+- "Off The Job" hours: minimum 6 hours per week.
+- The End Point Assessment
+    - A professional discussion focusing on your portfolio
+    - A presentation on your End Point Assessment project
+    - Questions about your End Point Assessment project
+
+---
+
+## Projects that I undertook
+
+- Automation of data processing for the Non-Bedded Community Modelling Tool
+- Improving visualisations for the S136 report
+- Exploration of forecasting methods applied to cancer waiting times data
+- Using regression to predict improvement in Mental Health PROMs scores
+- Investigating the relationship between health inequalities factors on Adult Social Care waiting times, and those waiting times on Emergency Department attendances
+
+---
+
+## Project outputs{.scrollable}
+
+:::{.panel-tabset}
+
+### Project 1
+
+![Community data processing automation](project1.png){fig-align="center"}
+
+### Project 2
+
+![Improving S136 visualisations](project2.png){fig-align="center"}
+
+### Project 3
+
+![Exploring forecasting methods](project3.png){fig-align="center"}
+
+### Project 4
+
+![Regression output](project4.png){fig-align="center"}
+
+### EPA Project
+
+![Adult Social Care deep-dive. Custom chart created in Python](projectEPA.png){fig-align="center"}
+
+:::
+
+---
+
+## Reflections
+
+- Keep the Data Analysis Life Cycle in mind for all your projects
+- Have the list of KSBs open when you are scoping and writing up your projects
+- Stay focused on the STAR method when writing up your portfolio projects
+    - Situation
+    - Task
+    - Action
+    - Result
+
+# Questions?
+
+
